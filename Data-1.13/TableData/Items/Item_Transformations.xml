@@ -780,7 +780,7 @@
 		<usAPCost>0</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Change Mag Type (5rd)</szMenuRowText>
-		<szTooltipText>Change Mag Type (5.45x39mmrd)</szTooltipText>
+		<szTooltipText>Change Mag Type (5rd)</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>1776</usItem>

@@ -53073,7 +53073,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<MagSizeBonus>5</MagSizeBonus>
-		<Inseparable>0</Inseparable>
+		<Inseparable>2</Inseparable>
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
@@ -53096,7 +53096,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<MagSizeBonus>10</MagSizeBonus>
-		<Inseparable>0</Inseparable>
+		<Inseparable>2</Inseparable>
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
@@ -53119,7 +53119,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<MagSizeBonus>20</MagSizeBonus>
-		<Inseparable>0</Inseparable>
+		<Inseparable>2</Inseparable>
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
