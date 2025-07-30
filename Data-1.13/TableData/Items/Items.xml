@@ -9907,6 +9907,7 @@
 		<TransportGroupMinProgress>60</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<DefaultAttachment>1007</DefaultAttachment>
+		<DefaultAttachment>1777</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -53056,4 +53057,76 @@
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
+
+	<ITEM>
+		<uiIndex>1775</uiIndex>
+		<szItemName>7.62x51 5rd Magazine Slot</szItemName>
+		<szLongItemName>7.62x51 5rd Magazine Slot</szLongItemName>
+		<szItemDesc>Some Description</szItemDesc>
+		<szBRName>Should't be buyable</szBRName>
+		<szBRDesc>Should't be buyable</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>16384</AttachmentClass>
+		<nasAttachmentClass>16384</nasAttachmentClass>
+		<ubGraphicNum>300</ubGraphicNum>
+		<ubWeight>0</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<MagSizeBonus>5</MagSizeBonus>
+		<Inseparable>0</Inseparable>
+		<NotBuyable>1</NotBuyable>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>1776</uiIndex>
+		<szItemName>7.62x51 10rd Magazine Slot</szItemName>
+		<szLongItemName>7.62x51 10rd Magazine Slot</szLongItemName>
+		<szItemDesc>Some Description</szItemDesc>
+		<szBRName>Should't be buyable</szBRName>
+		<szBRDesc>Should't be buyable</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>16384</AttachmentClass>
+		<nasAttachmentClass>16384</nasAttachmentClass>
+		<ubGraphicNum>300</ubGraphicNum>
+		<ubWeight>0</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<MagSizeBonus>10</MagSizeBonus>
+		<Inseparable>0</Inseparable>
+		<NotBuyable>1</NotBuyable>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>1777</uiIndex>
+		<szItemName>7.62x51 20rd Magazine Slot</szItemName>
+		<szLongItemName>7.62x51 20rd Magazine Slot</szLongItemName>
+		<szItemDesc>Some Description</szItemDesc>
+		<szBRName>Should't be buyable</szBRName>
+		<szBRDesc>Should't be buyable</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>16384</AttachmentClass>
+		<nasAttachmentClass>16384</nasAttachmentClass>
+		<ubGraphicNum>300</ubGraphicNum>
+		<ubWeight>0</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<MagSizeBonus>20</MagSizeBonus>
+		<Inseparable>0</Inseparable>
+		<NotBuyable>1</NotBuyable>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+
+
 </ITEMLIST>

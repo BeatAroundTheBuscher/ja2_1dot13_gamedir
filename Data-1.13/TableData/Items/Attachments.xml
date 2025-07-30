@@ -30018,4 +30018,19 @@
 		<itemIndex>836</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1775</attachmentIndex>
+		<itemIndex>334</itemIndex>
+		<APCost>0</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1776</attachmentIndex>
+		<itemIndex>334</itemIndex>
+		<APCost>0</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1777</attachmentIndex>
+		<itemIndex>334</itemIndex>
+		<APCost>0</APCost>
+	</ATTACHMENT>
 	</ATTACHMENTLIST>
